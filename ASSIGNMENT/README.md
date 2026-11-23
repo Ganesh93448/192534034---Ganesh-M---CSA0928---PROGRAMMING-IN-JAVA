@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Name** | [ENTER YOUR NAME] |
-| **Register number** | [ENTER REGISTER NUMBER] |
+| **Name** | [GANESH M] |
+| **Register number** | [192524034] |
 | **Course** | CSA0928 – Programming in Java (CO1) |
 | **Java version** | OpenJDK 21 (`java -version`; any JDK 17+ works because `instanceof` patterns and records are used) |
 | **Repository** | CSA09-[RegisterNumber]-Assignment1 |
