@@ -1,2 +1,0 @@
-$ java -cp out SeatBooking
-Seats sold: 10
