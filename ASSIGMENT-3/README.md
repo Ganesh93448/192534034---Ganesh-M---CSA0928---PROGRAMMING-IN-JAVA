@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Student A** | [NAME] – register number [REGISTER NUMBER] |
-| **Student B** | [NAME] – register number [REGISTER NUMBER] |
+| **Student A** | [GANESH M] – register number [192524034] |
+| **Student B** | [GANESH M] – register number [192524034] |
 | **Java version** | OpenJDK 21 (any JDK 17+ works) |
 | **Repository** | CSA09-[RegisterNumber]-Assignment3 |
 
